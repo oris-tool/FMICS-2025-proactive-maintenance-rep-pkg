@@ -1,0 +1,48 @@
+# Maven - Generated files for the TCUSys project
+TCUSys/target/
+TCUSys/.settings/
+TCUSys/.project
+TCUSys/.classpath
+TCUSys/*.launch
+TCUSys/.buildpath
+TCUSys/pom.xml.tag
+TCUSys/pom.xml.releaseBackup
+TCUSys/pom.xml.versionsBackup
+TCUSys/pom.xml.next
+TCUSys/release.properties
+TCUSys/dependency-reduced-pom.xml
+TCUSys/buildNumber.properties
+TCUSys/.mvn/timing.properties
+TCUSys/.mvn/wrapper/maven-wrapper.jar
+TCUSys/.mvn/wrapper/MavenWrapperDownloader.java
+TCUSys/surefire-reports/
+TCUSys/failsafe-reports/
+TCUSys/test-output/
+TCUSys/jacoco/
+
+# Eclipse IDE files (if present directly in the root or other non-Maven folders)
+.metadata/
+.recommenders/
+
+# IntelliJ IDEA (if you ever use it for any part of the repo)
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS-specific files (for the whole repository)
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs (for the whole repository)
+*.log
+logs/
+
+# Specific to your project - DO NOT IGNORE if you use system scope for faultflow-paper.jar
+# If you are placing faultflow-paper.jar within TCUSys/lib/ and want to commit it,
+# ensure this line is NOT in your .gitignore:
+# TCUSys/lib/faultflow-paper.jar
+#
+# If you use a general 'lib' folder in your project's root for various dependencies (less common for Maven):
+# lib/
