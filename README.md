@@ -1,4 +1,4 @@
-# Data-Driven Synthesis of Stochastic Fault Trees for Proactive Maintenance of Railway Vehicles - Package
+# Data-Driven Synthesis of Stochastic Fault Trees for Proactive Maintenance of Railway Vehicles - Replication Package
 
 This repository is a companion page for the following publication:
 
