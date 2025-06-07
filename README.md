@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/993200530.svg)](https://doi.org/10.5281/zenodo.15613737)
+
 # Data-Driven Synthesis of Stochastic Fault Trees for Proactive Maintenance of Railway Vehicles - Replication Package
 
 This repository is a companion page for the following publication:
